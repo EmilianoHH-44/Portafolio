@@ -20,7 +20,7 @@ Por lo que decidimos crear un programa para la elaboración de un portafolio.
 - Licencia
 - Creadores
 ## Ejemplos
-![APPSCREENSHOT]("C:\Users\emili\Downloads\WhatsApp Image 2025-05-30 at 11.08.34 AM.jpeg")
+![APP SCREENSHOT]("C:\Users\emili\Downloads\WhatsApp Image 2025-05-30 at 11.08.34 AM.jpeg")
 ## Características 
 
 En nuestro programa 
